@@ -4,7 +4,7 @@ public class Cgpa {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         
-        System.out.println("NOTE : Enter 0 0 in to end the program \n");
+        System.out.println("NOTE : Enter 0 0 to end the program \n");
         System.out.println("Enter the Grade Points and Credit of the course : ");
         double numer = 0;
         double denom = 0;

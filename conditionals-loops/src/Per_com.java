@@ -11,7 +11,7 @@ public class Per_com
         int r = in.nextInt();
 
         System.out.println("Permutation : " + factor(n)/factor(n-r));
-        System.out.println("Permutation : " + factor(n)/(factor(n-r)*factor(r)));
+        System.out.println("Combination : " + factor(n)/(factor(n-r)*factor(r)));
 
     }
 
